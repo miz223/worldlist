@@ -29,7 +29,7 @@
                         "Android": false
                     }
                 },
-                ...
+
             ]
         },
         {
@@ -47,10 +47,8 @@
                         "Android": false
                     },
                 },
-                ...
              ]
         },
-        ...
     ]
 }{
     "ReverseCategorys": false,
@@ -83,7 +81,6 @@
                         "Android": false
                     }
                 },
-                ...
             ]
         },
         {
@@ -101,9 +98,7 @@
                         "Android": false
                     },
                 },
-                ...
              ]
         },
-        ...
     ]
 }
